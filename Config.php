@@ -5,3 +5,4 @@ $config['conflict3'] = 'Test3'
 $config['conflict4'] = 'Test4'
 $congig['checkout-comit'] = 'test';
 $config['checkut-commit'] = 'temp';
+$config['checkout-commit'] = 'temp3'
